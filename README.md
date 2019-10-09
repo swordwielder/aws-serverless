@@ -4,9 +4,9 @@ AWS serverless walkthrough
 
 ## Resources
 
-Intro [walkthrough](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication)
+[Walkthrough](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication)
 
-First [part](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/1_StaticWebHosting)
+[First Part](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/1_StaticWebHosting)
 
 [Adding SSH Key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
@@ -19,7 +19,7 @@ First [part](https://github.com/aws-samples/aws-serverless-workshops/tree/master
 
 ## Built-with
 
-AWS [Amplify](https://console.aws.amazon.com/amplify) Serverless
+[AWS Amplify](https://console.aws.amazon.com/amplify) Serverless
 
 ## Webapp
 
